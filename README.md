@@ -5,4 +5,4 @@ A portal for a coding portfolio.
 benk3r (https://github.com/benk3r)
 
 ## License
-This project is not licensed.
+This project is not licensed. 
